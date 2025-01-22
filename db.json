@@ -1,9 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "tasks": [
+    { "id": 1, "title": "json-server", "status": "in progress", "description": "Some description about out app", "date": "", "location": "San-Francisco", "Attachments": [] }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [{ "id": 11 ,"name": "ALex" }]
 }
